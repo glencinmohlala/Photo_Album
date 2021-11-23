@@ -1,0 +1,235 @@
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\obj\Debug\Photo_Album.csproj.AssemblyReference.cache
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\obj\Debug\Photo_Album.csproj.CoreCompileInputs.cache
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\Photo_Album.dll.config
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\Photo_Album.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\Photo_Album.pdb
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\csc.exe
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\csc.exe.config
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\csc.rsp
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\csi.exe
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\csi.exe.config
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\csi.rsp
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.AppContext.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Console.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.IO.Compression.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Net.Http.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.ValueTuple.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\vbc.exe
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\vbc.exe.config
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\vbc.rsp
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\VBCSCompiler.exe
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\Antlr3.Runtime.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\Newtonsoft.Json.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.Helpers.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.Mvc.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.Optimization.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.Razor.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.WebPages.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.WebPages.Razor.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\WebGrease.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.Helpers.xml
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.Mvc.xml
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.Optimization.xml
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.Razor.xml
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.WebPages.xml
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\System.Web.WebPages.Razor.xml
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\Newtonsoft.Json.xml
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\Antlr3.Runtime.pdb
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\obj\Debug\Photo_Album.dll
+C:\Users\Glencin\Desktop\Project 2\Photo_Album\Photo_Album\obj\Debug\Photo_Album.pdb
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\Photo_Album.dll.config
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\Photo_Album.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\Photo_Album.pdb
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\csc.exe
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\csc.exe.config
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\csc.rsp
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\csi.exe
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\csi.exe.config
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\csi.rsp
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.AppContext.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Console.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.IO.Compression.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Net.Http.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.ValueTuple.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\vbc.exe
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\vbc.exe.config
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\vbc.rsp
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\VBCSCompiler.exe
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\Antlr3.Runtime.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\Newtonsoft.Json.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.Helpers.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.Mvc.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.Optimization.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.Razor.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.WebPages.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.WebPages.Razor.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\WebGrease.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.Helpers.xml
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.Mvc.xml
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.Optimization.xml
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.Razor.xml
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.WebPages.xml
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\System.Web.WebPages.Razor.xml
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\Newtonsoft.Json.xml
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\Antlr3.Runtime.pdb
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\obj\Debug\Photo_Album.csproj.AssemblyReference.cache
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\obj\Debug\Photo_Album.csproj.CoreCompileInputs.cache
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\obj\Debug\Photo_Album.dll
+C:\Users\Glencin\Desktop\Project2\Photo_Album\Photo_Album\obj\Debug\Photo_Album.pdb
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\Photo_Album.dll.config
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\Photo_Album.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\Photo_Album.pdb
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\csc.exe
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\csc.exe.config
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\csc.rsp
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\csi.exe
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\csi.exe.config
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\csi.rsp
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.CSharp.Core.targets
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.Managed.Core.targets
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.AppContext.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Collections.Immutable.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Console.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Globalization.Calendars.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.IO.Compression.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.IO.FileSystem.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Net.Http.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Net.Sockets.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Reflection.Metadata.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.ValueTuple.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Xml.ReaderWriter.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Xml.XmlDocument.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Xml.XPath.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\vbc.exe
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\vbc.exe.config
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\vbc.rsp
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\VBCSCompiler.exe
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\roslyn\VBCSCompiler.exe.config
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\Antlr3.Runtime.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\Microsoft.Web.Infrastructure.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\Newtonsoft.Json.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.Helpers.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.Mvc.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.Optimization.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.Razor.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.WebPages.Deployment.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.WebPages.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.WebPages.Razor.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\WebGrease.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.Helpers.xml
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.Mvc.xml
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.Optimization.xml
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.Razor.xml
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.WebPages.xml
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.WebPages.Deployment.xml
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\System.Web.WebPages.Razor.xml
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\Newtonsoft.Json.xml
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\Antlr3.Runtime.pdb
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\obj\Debug\Photo_Album.csproj.CoreCompileInputs.cache
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\obj\Debug\Photo_Album.csproj.CopyComplete
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\obj\Debug\Photo_Album.dll
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\obj\Debug\Photo_Album.pdb
+\\143.160.81.13\CTX_Redirected_Data$\37157604\Downloads\Photo_Album\Photo_Album\Photo_Album\obj\Debug\Photo_Album.csprojAssemblyReference.cache
